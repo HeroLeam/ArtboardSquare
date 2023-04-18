@@ -1,3 +1,9 @@
+/* 
+  Author: Thiago Leoni Amaral
+  Copyright (c) 2023
+  https://linktr.ee/heroleam
+*/
+
 // Seleciona o documento ativo
 var doc = app.activeDocument;
 
